@@ -1,6 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Amandahatte123",
+	"author": {
+		"name": "Amandahatte123",
+		"email": "amandahatte@gmail.com"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,6 +15,4 @@
 		"type": "git",
 		"url": "https://github.com/Amandahatte123/FreecodeCampJsonn.git"
 	}
-
-	
 }
